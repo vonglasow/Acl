@@ -18,7 +18,7 @@
 
 # Hoa\Acl
 
-[![Help on IRC](https://img.shields.io/badge/help-%23hoaproject-ff0066.svg)](https://webchat.freenode.net/?channels=#hoaproject)
+[![Help on IRC](https://img.shields.io/badge/help-hoaproject-ff0066.svg)](https://webchat.freenode.net/?channels=#hoaproject)
 [![Help on Gitter](https://img.shields.io/badge/help-gitter-ff0066.svg)](https://gitter.im/hoaproject/central)
 [![Documentation](https://img.shields.io/badge/documentation-hack_book-ff0066.svg)](https://central.hoa-project.net/Documentation/Library/Acl)
 [![Board](https://img.shields.io/badge/organisation-board-ff0066.svg)](https://waffle.io/hoaproject/acl)
